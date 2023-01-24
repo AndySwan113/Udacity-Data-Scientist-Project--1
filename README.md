@@ -11,3 +11,7 @@ In this repo, I have my python notebook file which shows my code for cleaning, a
 
 The results of my findings were than generally Europe, North America and Oceania follow similar trends, as do Africa, South America and Asia.
 
+Below is the link for my blog post on medium:
+
+https://medium.com/@Andrew-Swan/coding-in-different-continents-what-are-the-trends-where-you-live-56e9af28c274
+
