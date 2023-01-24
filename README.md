@@ -1,6 +1,6 @@
 # Udacity-Data-Scientist-Project-1
 
-Writing a data science blog post.
+Writing a data science blog project.
 
 Libraries uses:
 Numpy, Pandas, Seaborn, Matplotlib, pycountry_convert, CurrencyRates and datetime
